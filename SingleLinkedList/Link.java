@@ -1,4 +1,4 @@
-package SingleLinkedList;
+
 public class Link {
 	public Link next;
 	public int data;
